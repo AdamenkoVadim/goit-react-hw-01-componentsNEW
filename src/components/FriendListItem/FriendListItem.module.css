@@ -1,0 +1,36 @@
+.item {
+    width: 350px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+    background-color: cornsilk;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06),
+      1px 4px 6px rgba(0, 0, 0, 0.16);
+  }
+  
+  .avatar {
+    width: 80px;
+    height: 80px;
+    margin: 30px;
+  }
+  
+  .name {
+    font-size: 30px;
+  }
+  
+  .status {
+    width: 22px;
+    height: 22px;
+    background-color: gray;
+    border: none;
+    border-radius: 50%;
+  }
+  
+  .true {
+    background-color: rgb(14, 221, 76);
+  }
+  
+  .false {
+    background-color: rgba(238, 10, 40, 0.789);
+  }

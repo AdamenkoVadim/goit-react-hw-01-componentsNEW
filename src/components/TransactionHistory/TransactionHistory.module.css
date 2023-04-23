@@ -1,0 +1,24 @@
+.transaction__history {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 600px;
+    text-align: center;
+    background-color: rgb(251, 246, 246);
+  }
+  
+  .tr {
+    height: 40px;
+  }
+  
+  .tr:nth-child(2n) {
+    background-color: rgb(174, 217, 234);
+  }
+  
+  .thead {
+    height: 50px;
+    text-transform: uppercase;
+    background-color: rgb(174, 217, 234);
+  }
+  
